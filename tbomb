@@ -1,0 +1,7 @@
+$pkg upgrade
+$apt update
+$pkg install python
+$pkg install python3
+$pkg install pip
+$pip install tbomb
+$tbomb
